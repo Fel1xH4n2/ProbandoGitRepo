@@ -8,7 +8,11 @@ public class AleatorioEmple {
 		crear();
 		leer();
 	}
-
+/*Comentario*/
+	/*Comentario*/
+	/*ifjrepoirfjeoirfj*/
+	/*Comentario*/
+	
 	public static void leer() throws IOException {
 		File fichero = new File("AleatorioEmple.dat");
 		RandomAccessFile file = new RandomAccessFile(fichero, "r");
